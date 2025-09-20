@@ -2,8 +2,8 @@
 
 ## Author
 **Om Sonawane**  
-- GitHub: (https://github.com/OmSonawane-360)  
-- LinkedIn: (https://www.linkedin.com/in/om-sonawane360/)  
+- GitHub:[OmSonawane-360] (https://github.com/OmSonawane-360)  
+- LinkedIn:[om-sonawane360] (https://www.linkedin.com/in/om-sonawane360/)  
 - Email: ompatil0357@gmail.com
 
 ---
@@ -87,9 +87,9 @@ The analysis was performed in a structured, step-by-step manner:
 If you have any questions or would like to discuss the analysis, feel free to contact me:  
 
 **Om Sonawane**  
-- Email: ompatil0357@gmail.com 
-- GitHub: (https://github.com/OmSonawane-360)  
-- LinkedIn: (https://www.linkedin.com/in/om-sonawane360/)
+- GitHub:[OmSonawane-360] (https://github.com/OmSonawane-360)  
+- LinkedIn:[om-sonawane360] (https://www.linkedin.com/in/om-sonawane360/)  
+- Email: ompatil0357@gmail.com
 
 ---
 
