@@ -2,9 +2,9 @@
 
 ## Author
 **Om Sonawane**  
-- GitHub:[OmSonawane-360] (https://github.com/OmSonawane-360)  
-- LinkedIn:[om-sonawane360] (https://www.linkedin.com/in/om-sonawane360/)  
-- Email: ompatil0357@gmail.com
+- GitHub: [github.com/YourGitHubID](https://github.com/YourGitHubID)  
+- LinkedIn: [linkedin.com/in/YourLinkedInID](https://linkedin.com/in/YourLinkedInID)  
+- Email: your.email@example.com  
 
 ---
 
@@ -17,6 +17,8 @@ Two primary datasets are used:
 2. **Historical Trader Data** – Contains trade-level information including account, coin, execution price, trade size (tokens & USD), trade side (BUY/SELL), timestamps, PnL, and other details.
 
 **Objective:** To explore how market sentiment influences trading behavior and performance, identify hidden patterns, and generate insights that can support more informed trading decisions.
+
+**Datasets:** [Click here to access datasets on Google Drive](https://drive.google.com/drive/folders/1JChsIXU0pAnoHbSMwAz26wc_mDqRa72G?usp=drive_link)
 
 ---
 
@@ -68,14 +70,6 @@ The analysis was performed in a structured, step-by-step manner:
 
 ---
 
-## Repository Structure
-- `Trader_Behavior_Insights_Assignment.ipynb` – Complete Colab notebook with code, analysis, and visualizations.  
-- `fear_greed_index.csv` – Bitcoin Fear & Greed Index dataset.  
-- `historical_data.csv` – Historical trader transactions dataset.  
-- `final_output.csv` – Aggregated daily PnL merged with market sentiment.  
-
----
-
 ## How to Use
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
 2. Run all cells sequentially.  
@@ -87,9 +81,9 @@ The analysis was performed in a structured, step-by-step manner:
 If you have any questions or would like to discuss the analysis, feel free to contact me:  
 
 **Om Sonawane**  
-- GitHub:[OmSonawane-360] (https://github.com/OmSonawane-360)  
-- LinkedIn:[om-sonawane360] (https://www.linkedin.com/in/om-sonawane360/)  
-- Email: ompatil0357@gmail.com
+- Email: your.email@example.com  
+- GitHub: [github.com/YourGitHubID](https://github.com/YourGitHubID)  
+- LinkedIn: [linkedin.com/in/YourLinkedInID](https://linkedin.com/in/YourLinkedInID)
 
 ---
 
