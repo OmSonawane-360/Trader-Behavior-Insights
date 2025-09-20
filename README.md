@@ -63,6 +63,13 @@ The analysis was performed in a structured, step-by-step manner:
 
 ## Repository Structure
 - `Trader_Behavior_Insights_Assignment.ipynb` – Complete Colab notebook with code, analysis, and visualizations.  
+- `final_output.csv` – Aggregated daily PnL merged with market sentiment.  
+- **Datasets:** Access via [Google Drive link](https://drive.google.com/drive/folders/1JChsIXU0pAnoHbSMwAz26wc_mDqRa72G?usp=drive_link).
+
+---
+
+## Repository Structure
+- `Trader_Behavior_Insights_Assignment.ipynb` – Complete Colab notebook with code, analysis, and visualizations.  
 - `fear_greed_index.csv` – Bitcoin Fear & Greed Index dataset.  
 - `historical_data.csv` – Historical trader transactions dataset.  
 - `final_output.csv` – Aggregated daily PnL merged with market sentiment.  
