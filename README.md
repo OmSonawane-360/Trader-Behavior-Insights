@@ -2,10 +2,9 @@
 
 ## Author
 **Om Sonawane**  
-- GitHub: [github.com/YourGitHubID](https://github.com/YourGitHubID)  
-- LinkedIn: [linkedin.com/in/YourLinkedInID](https://linkedin.com/in/YourLinkedInID)  
-- Email: your.email@example.com  
-
+- GitHub: [github.com/OmSonawane-360](https://github.com/OmSonawane-360)  
+- LinkedIn: [linkedin.com/in/om-sonawane360](https://www.linkedin.com/in/om-sonawane360/)  
+- Email: ompatil0357@gmail.com
 ---
 
 ## Overview
@@ -81,10 +80,9 @@ The analysis was performed in a structured, step-by-step manner:
 If you have any questions or would like to discuss the analysis, feel free to contact me:  
 
 **Om Sonawane**  
-- Email: your.email@example.com  
-- GitHub: [github.com/YourGitHubID](https://github.com/YourGitHubID)  
-- LinkedIn: [linkedin.com/in/YourLinkedInID](https://linkedin.com/in/YourLinkedInID)
-
+- GitHub: [github.com/OmSonawane-360](https://github.com/OmSonawane-360)  
+- LinkedIn: [linkedin.com/in/om-sonawane360](https://www.linkedin.com/in/om-sonawane360/)  
+- Email: ompatil0357@gmail.com
 ---
 
 **Note:** This project was completed as part of a **Junior Data Scientist assessment** and demonstrates skills in data cleaning, feature engineering, exploratory data analysis, statistical testing, and visualization.
