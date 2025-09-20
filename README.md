@@ -2,9 +2,9 @@
 
 ## Author
 **Om Sonawane**  
-- GitHub: [github.com/YourGitHubID](https://github.com/OmSonawane-360)  
-- LinkedIn: [linkedin.com/in/YourLinkedInID](https://www.linkedin.com/in/om-sonawane360/)  
-- Email: your.email@example.com  
+- GitHub: (https://github.com/OmSonawane-360)  
+- LinkedIn: (https://www.linkedin.com/in/om-sonawane360/)  
+- Email: ompatil0357@gmail.com
 
 ---
 
@@ -88,8 +88,8 @@ If you have any questions or would like to discuss the analysis, feel free to co
 
 **Om Sonawane**  
 - Email: ompatil0357@gmail.com 
-- GitHub: [github.com/YourGitHubID](https://github.com/OmSonawane-360)  
-- LinkedIn: [linkedin.com/in/YourLinkedInID](https://www.linkedin.com/in/om-sonawane360/)
+- GitHub: (https://github.com/OmSonawane-360)  
+- LinkedIn: (https://www.linkedin.com/in/om-sonawane360/)
 
 ---
 
